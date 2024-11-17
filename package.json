@@ -21,9 +21,7 @@
     "author": "u/kathari00, u/garronej",
     "license": "MIT",
     "files": [
-        "src/",
-        "dist/",
-        "!dist/tsconfig.tsbuildinfo"
+        "keycloak-theme"
     ],
     "keywords": [],
     "homepage": "https://github.com/keycloakify/keycloakify-angular-login-material",
