@@ -65,6 +65,9 @@ jobs:
     - uses: actions/checkout@v4
       with:
         ref: ${{ github.ref }}
+    - uses: actions/setup-node@v4
+      with:
+        registry-url: https://registry.npmjs.org/
     - uses: garronej/ts-ci@v2.1.5
       with: 
         action_name: remove_dark_mode_specific_images_from_readme
