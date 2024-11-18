@@ -1,6 +1,6 @@
 {
     "name": "@keycloakify/angular-login-material",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Keycloakify Login Theme for Angular Based on Angular Material",
     "repository": {
         "type": "git",
